@@ -1,5 +1,8 @@
 # My-Vs-Code
 
+## Passos
+- Baixar a extensão [Aura Theme](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme)
+- adicionar as informações abaixo no Json de configs do VS Code
 
 ```json
 "editor.tokenColorCustomizations": {
